@@ -1,0 +1,9 @@
+{
+    "chain": "mainnet",
+    "phrase": "urwalletphrasekey",
+    "youAre": "urwalletpvtkey",
+    "waitKey": 10,
+    "continueGameId": "",
+    "clearScreen": true,
+    "debug": true
+}
